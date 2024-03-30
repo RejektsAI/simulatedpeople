@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rc7viiTCftxHnoekfXXlADuEOCsTNpOs#scrollTo=Riw2xgbChHMn)
 # SimulatedPerson
 SimulatedPerson is a Python class that allows you to create a simulated conversation partner powered by OpenAI's language models. With just a few lines of code, you can engage in interactive conversations and explore the capabilities of AI-driven dialogue.
 
