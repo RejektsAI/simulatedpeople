@@ -16,7 +16,7 @@ pip install openai
 2. Obtain an API key from OpenAI.
 3. Create an instance of the **SimulatedPerson** class:
 ```python
-from simulated_person import SimulatedPerson
+from simulatedpeople import SimulatedPerson
 
 api_key = "your_openai_api_key"
 context = "You are a helpful assistant named Alice."
